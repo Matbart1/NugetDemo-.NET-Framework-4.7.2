@@ -7,11 +7,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <projectUrl>https://github.com/Matbart1/NugetExamplePackage/</projectUrl>
+    <description>Demo test for patrick and mathieu</description>
+    <releaseNotes>Simple math function</releaseNotes>
     <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>Math, Function, Demo</tags>
     <dependencies>
       <group targetFramework=".NETStandard2.1">
         <dependency id="SampleDependency" version="1.0.0" />
